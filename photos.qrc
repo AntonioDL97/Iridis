@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="photos">
+    <file>fotos/cabeza_abajo.jpg</file>
+    <file>fotos/cabeza_arriba.jpg</file>
+    <file>fotos/cabeza_centro.jpg</file>
+    <file>fotos/cabeza_derecha.jpg</file>
+    <file>fotos/cabeza_izquierda.jpg</file>
+    <file>fotos/ojo_derecho_cerrado.jpg</file>
+    <file>fotos/ojo_izquierdo_cerrado.jpg</file>
+    <file>fotos/ojos_abiertos.jpg</file>
+  </qresource>
+</RCC>

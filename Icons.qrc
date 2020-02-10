@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>iconos/exit.ico</file>
+    <file>iconos/go back.ico</file>
+    <file>iconos/go forward.ico</file>
+    <file>iconos/home.ico</file>
+    <file>iconos/how-to.ico</file>
+    <file>iconos/open.ico</file>
+    <file>iconos/pant1.ico</file>
+    <file>iconos/pant2.ico</file>
+    <file>iconos/save.ico</file>
+  </qresource>
+</RCC>

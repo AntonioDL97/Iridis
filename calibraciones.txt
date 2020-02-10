@@ -1,0 +1,2 @@
+Name,velocidad,ojo_click,lim_derecho,lim_izquierdo,lim_arriba,lim_abajo,lim_ojo_derecho,lim_ojo_izquierdo
+Predeterminado,4,0,0.7,1.3,0.6,1.3,4.5,4.5
